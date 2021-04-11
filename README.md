@@ -1,0 +1,1 @@
+# Image-Generation-and-Detection-of-Forest-Fire
